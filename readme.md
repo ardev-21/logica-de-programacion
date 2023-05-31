@@ -2,11 +2,30 @@
 
  <table>
   <tr>
-    <th>Month</th>
-    <th>Savings</th>
+    <th>Reto</th>
+    <th>Descripcion</th>
   </tr>
   <tr>
-    <td>January</td>
-    <td>$100</td>
+    <td>1</td>
+    <td>Escribe un programa que muestre por consola (con un print) los números de 1 a 100 (ambos incluidos y con un salto de línea entre cada impresión), sustituyendo los siguientes:
+    *Múltiplos de 3 por la palabra "fizz".
+    *Múltiplos de 5 por la palabra "buzz".
+    *Múltiplos de 3 y de 5 a la vez por la palabra "fizzbuzz".</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Escribe una función que reciba dos palabras (String) y retorne verdadero o falso (Bool) según sean o no anagramas.
+    *Un Anagrama consiste en formar una palabra reordenando TODAS las letras de otra palabra inicial.
+    *NO hace falta comprobar que ambas palabras existan.
+    *Dos palabras exactamente iguales no son anagrama.
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Escribe un programa que imprima los 50 primeros números de la sucesión de Fibonacci empezando en 0.
+    *La serie Fibonacci se compone por una sucesión de números en la que el siguiente siempre es la suma de los dos anteriores. 0, 1, 1, 2, 3, 5, 8, 13...
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Escribe un programa que se encargue de comprobar si un número es o no primo. Hecho esto, imprime los números primos entre 1 y 100.
   </tr>
 </table>
