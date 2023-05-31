@@ -2,6 +2,7 @@
 
 Aqui subire ejercicios para practicar la lógica de programación en diferentes lenguajes.
 Cualquier ejercicio que se les ocurra y quieran agregar, ayudarian mucho.
+Y cualquier modificación que se les ocurra tambíen es bíenvenida.
 Espero les guste.
 
  <table>
@@ -16,7 +17,7 @@ Espero les guste.
     *Múltiplos de 3 por la palabra "fizz".<br>
     *Múltiplos de 5 por la palabra "buzz".<br>
     *Múltiplos de 3 y de 5 a la vez por la palabra "fizzbuzz".</td>
-    <td></td>
+    <td>Fácil</td>
   </tr>
   <tr>
     <td>2</td>
@@ -24,17 +25,17 @@ Espero les guste.
     *Un Anagrama consiste en formar una palabra reordenando TODAS las letras de otra palabra inicial.<br>
     *NO hace falta comprobar que ambas palabras existan.<br>
     *Dos palabras exactamente iguales no son anagrama.</td>
-    <td></td>
+    <td>Medio</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Escribe un programa que imprima los 50 primeros números de la sucesión de Fibonacci empezando en 0.<br>
     *La serie Fibonacci se compone por una sucesión de números en la que el siguiente siempre es la suma de los dos anteriores. 0, 1, 1, 2, 3, 5, 8, 13...</td>
-    <td></td>
+    <td>Medio</td>
   </tr>
   <tr>
     <td>4</td>
     <td>Escribe un programa que se encargue de comprobar si un número es o no primo. Hecho esto, imprime los números primos entre 1 y 100.</td>
-    <td></td>
+    <td>Fácil</td>
   </tr>
 </table>
